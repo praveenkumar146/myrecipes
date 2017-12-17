@@ -24,6 +24,12 @@ $navbar-default-bg: #073B15;
   text-decoration: none;
 }
 
+.description
+{
+  margin-top:0;
+  
+}
+
 .btn-xlarge{
   background-color: #073B15;
 }
@@ -31,4 +37,23 @@ $navbar-default-bg: #073B15;
 .btn-xlarge:hover{
   color: #fff;
   text-decoration: none;
+}
+
+.well a {
+  color: #073B15;
+}
+
+.chef_info {
+  margin-top: 10px;
+}
+
+.colormatch a {
+  color: #073B15;
+}
+
+.recipe-actions {
+  padding-top: 5px;
+  a {
+    color: #fff;
+  }
 }
